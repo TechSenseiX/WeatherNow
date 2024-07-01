@@ -1,6 +1,4 @@
 # WeatherNow
-# Weather App
-
 This is a simple weather application that allows users to enter a city name and get current weather information.
 
 ## Features
